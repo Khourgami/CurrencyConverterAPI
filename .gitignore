@@ -1,0 +1,45 @@
+# Build and VS artifacts
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.log
+
+# Rider / VSCode / VS
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results & coverage
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.opencover.xml
+
+# Logs
+logs/
+*.seqlog.json
+*.serilog.json
+
+# Environment files
+*.env
+.env.*
+
+# Docker
+*.pid
+*.tar
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/

@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.api\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|solutionrelative:currencyconverter.api\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|solutionrelative:currencyconverter.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|solutionrelative:currencyconverter.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DA0DEE-1195-4621-8775-C0D56524D9AE}|CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.infrastructure\\dependencyinjection\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DA0DEE-1195-4621-8775-C0D56524D9AE}|CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj|solutionrelative:currencyconverter.infrastructure\\dependencyinjection\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|solutionrelative:currencyconverter.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\tests\\currencyconverter.tests.integration\\api\\authandcurrencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|solutionrelative:tests\\currencyconverter.tests.integration\\api\\authandcurrencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\tests\\currencyconverter.tests.integration\\infrastructure\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|solutionrelative:tests\\currencyconverter.tests.integration\\infrastructure\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\tests\\currencyconverter.tests.integration\\currencyconverter.tests.integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|solutionrelative:tests\\currencyconverter.tests.integration\\currencyconverter.tests.integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\tests\\currencyconverter.tests.integration\\support\\apimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|solutionrelative:tests\\currencyconverter.tests.integration\\support\\apimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\tests\\currencyconverter.tests.integration\\appsettings.test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C72F8DE-4698-449C-BE71-188EDD5D8D3B}|Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj|solutionrelative:tests\\currencyconverter.tests.integration\\appsettings.test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6860CF-8B80-D65A-58E7-723D3A2B469C}|Tests\\CurrencyConverter.UnitTests\\CurrencyConverter.Tests.Unit.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\tests\\currencyconverter.unittests\\domain\\valueobjects\\currencycodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6860CF-8B80-D65A-58E7-723D3A2B469C}|Tests\\CurrencyConverter.UnitTests\\CurrencyConverter.Tests.Unit.csproj|solutionrelative:tests\\currencyconverter.unittests\\domain\\valueobjects\\currencycodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6860CF-8B80-D65A-58E7-723D3A2B469C}|Tests\\CurrencyConverter.UnitTests\\CurrencyConverter.Tests.Unit.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\tests\\currencyconverter.unittests\\application\\services\\currencyconversionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6860CF-8B80-D65A-58E7-723D3A2B469C}|Tests\\CurrencyConverter.UnitTests\\CurrencyConverter.Tests.Unit.csproj|solutionrelative:tests\\currencyconverter.unittests\\application\\services\\currencyconversionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6860CF-8B80-D65A-58E7-723D3A2B469C}|Tests\\CurrencyConverter.UnitTests\\CurrencyConverter.Tests.Unit.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\tests\\currencyconverter.unittests\\api\\controllers\\currencycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6860CF-8B80-D65A-58E7-723D3A2B469C}|Tests\\CurrencyConverter.UnitTests\\CurrencyConverter.Tests.Unit.csproj|solutionrelative:tests\\currencyconverter.unittests\\api\\controllers\\currencycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.domain\\errors\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|solutionrelative:currencyconverter.domain\\errors\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.domain\\primitives\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|solutionrelative:currencyconverter.domain\\primitives\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.domain\\valueobjects\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|solutionrelative:currencyconverter.domain\\valueobjects\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.api\\controllers\\debugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|solutionrelative:currencyconverter.api\\controllers\\debugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DA0DEE-1195-4621-8775-C0D56524D9AE}|CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DA0DEE-1195-4621-8775-C0D56524D9AE}|CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj|solutionrelative:currencyconverter.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839BB454-E418-400E-A248-BB352AD382A5}|CurrencyConverter.Application\\CurrencyConverter.Application.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839BB454-E418-400E-A248-BB352AD382A5}|CurrencyConverter.Application\\CurrencyConverter.Application.csproj|solutionrelative:currencyconverter.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|solutionrelative:currencyconverter.api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3EA930-037F-4E35-B47E-23A6E2D1AC84}|CurrencyConverter.Api\\CurrencyConverter.Api.csproj|solutionrelative:currencyconverter.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839BB454-E418-400E-A248-BB352AD382A5}|CurrencyConverter.Application\\CurrencyConverter.Application.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.application\\services\\currencyconversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839BB454-E418-400E-A248-BB352AD382A5}|CurrencyConverter.Application\\CurrencyConverter.Application.csproj|solutionrelative:currencyconverter.application\\services\\currencyconversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DA0DEE-1195-4621-8775-C0D56524D9AE}|CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.infrastructure\\services\\currencyapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DA0DEE-1195-4621-8775-C0D56524D9AE}|CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj|solutionrelative:currencyconverter.infrastructure\\services\\currencyapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DA0DEE-1195-4621-8775-C0D56524D9AE}|CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.infrastructure\\services\\currencyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DA0DEE-1195-4621-8775-C0D56524D9AE}|CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj|solutionrelative:currencyconverter.infrastructure\\services\\currencyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.domain\\valueobjects\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|solutionrelative:currencyconverter.domain\\valueobjects\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839BB454-E418-400E-A248-BB352AD382A5}|CurrencyConverter.Application\\CurrencyConverter.Application.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.application\\interfaces\\icurrencyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839BB454-E418-400E-A248-BB352AD382A5}|CurrencyConverter.Application\\CurrencyConverter.Application.csproj|solutionrelative:currencyconverter.application\\interfaces\\icurrencyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.domain\\services\\currencyconversiondomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|solutionrelative:currencyconverter.domain\\services\\currencyconversiondomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|c:\\data\\vahid\\hiring task\\bamboocard\\currencyconverter\\currencyconverter.domain\\valueobjects\\currencycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC104CC-FC89-4169-A89D-1A27D3B94EE0}|CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj|solutionrelative:currencyconverter.domain\\valueobjects\\currencycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CurrencyConverter.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:10:14.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Api\\Program.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Program.cs",
+              "RelativeToolTip": "CurrencyConverter.Api\\Program.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAQwJ4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:25:48.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfrastructureServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "RelativeToolTip": "CurrencyConverter.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:00:31.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CurrencyConverter.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CurrencyConverter.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T16:50:06.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Api\\Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "CurrencyConverter.Api\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:45:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthAndCurrencyTests.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\Api\\AuthAndCurrencyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CurrencyConverter.Tests.Integration\\Api\\AuthAndCurrencyTests.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\Api\\AuthAndCurrencyTests.cs",
+              "RelativeToolTip": "Tests\\CurrencyConverter.Tests.Integration\\Api\\AuthAndCurrencyTests.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T23:11:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\Infrastructure\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "Tests\\CurrencyConverter.Tests.Integration\\Infrastructure\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\Infrastructure\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "Tests\\CurrencyConverter.Tests.Integration\\Infrastructure\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T23:09:33.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Test.json",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\appsettings.Test.json",
+              "RelativeDocumentMoniker": "Tests\\CurrencyConverter.Tests.Integration\\appsettings.Test.json",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\appsettings.Test.json",
+              "RelativeToolTip": "Tests\\CurrencyConverter.Tests.Integration\\appsettings.Test.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T23:08:15.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyConverter.Tests.Integration.csproj",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj",
+              "RelativeDocumentMoniker": "Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj",
+              "RelativeToolTip": "Tests\\CurrencyConverter.Tests.Integration\\CurrencyConverter.Tests.Integration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T23:07:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiModels.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\Support\\ApiModels.cs",
+              "RelativeDocumentMoniker": "Tests\\CurrencyConverter.Tests.Integration\\Support\\ApiModels.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.Tests.Integration\\Support\\ApiModels.cs",
+              "RelativeToolTip": "Tests\\CurrencyConverter.Tests.Integration\\Support\\ApiModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T23:10:34.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrencyCodeTests.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.UnitTests\\Domain\\ValueObjects\\CurrencyCodeTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CurrencyConverter.UnitTests\\Domain\\ValueObjects\\CurrencyCodeTests.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.UnitTests\\Domain\\ValueObjects\\CurrencyCodeTests.cs",
+              "RelativeToolTip": "Tests\\CurrencyConverter.UnitTests\\Domain\\ValueObjects\\CurrencyCodeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:45:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CurrencyControllerTests.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.UnitTests\\Api\\Controllers\\CurrencyControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CurrencyConverter.UnitTests\\Api\\Controllers\\CurrencyControllerTests.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.UnitTests\\Api\\Controllers\\CurrencyControllerTests.cs",
+              "RelativeToolTip": "Tests\\CurrencyConverter.UnitTests\\Api\\Controllers\\CurrencyControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:44:19.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Primitives\\Guard.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Domain\\Primitives\\Guard.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Primitives\\Guard.cs",
+              "RelativeToolTip": "CurrencyConverter.Domain\\Primitives\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:30:00.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DateRange.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\DateRange.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Domain\\ValueObjects\\DateRange.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\DateRange.cs",
+              "RelativeToolTip": "CurrencyConverter.Domain\\ValueObjects\\DateRange.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:28:13.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Errors\\ValidationException.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Domain\\Errors\\ValidationException.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Errors\\ValidationException.cs",
+              "RelativeToolTip": "CurrencyConverter.Domain\\Errors\\ValidationException.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:14:20.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CurrencyConversionServiceTests.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.UnitTests\\Application\\Services\\CurrencyConversionServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CurrencyConverter.UnitTests\\Application\\Services\\CurrencyConversionServiceTests.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\Tests\\CurrencyConverter.UnitTests\\Application\\Services\\CurrencyConversionServiceTests.cs",
+              "RelativeToolTip": "Tests\\CurrencyConverter.UnitTests\\Application\\Services\\CurrencyConversionServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:44:33.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DebugController.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\DebugController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Api\\Controllers\\DebugController.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\DebugController.cs",
+              "RelativeToolTip": "CurrencyConverter.Api\\Controllers\\DebugController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAvwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:48:29.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "CurrencyConverter.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:24:18.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "CurrencyConverter.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:59:50.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Api\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "CurrencyConverter.Api\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:29:03.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "CurrencyConverter.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:03:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CurrencyConversionService.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Services\\CurrencyConversionService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Application\\Services\\CurrencyConversionService.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Services\\CurrencyConversionService.cs",
+              "RelativeToolTip": "CurrencyConverter.Application\\Services\\CurrencyConversionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:00:03.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CurrencyApiOptions.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\CurrencyApiOptions.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Infrastructure\\Services\\CurrencyApiOptions.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\CurrencyApiOptions.cs",
+              "RelativeToolTip": "CurrencyConverter.Infrastructure\\Services\\CurrencyApiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:59:56.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICurrencyApiService.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Interfaces\\ICurrencyApiService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Application\\Interfaces\\ICurrencyApiService.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Interfaces\\ICurrencyApiService.cs",
+              "RelativeToolTip": "CurrencyConverter.Application\\Interfaces\\ICurrencyApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:24:46.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CurrencyApiService.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\CurrencyApiService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Infrastructure\\Services\\CurrencyApiService.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\CurrencyApiService.cs",
+              "RelativeToolTip": "CurrencyConverter.Infrastructure\\Services\\CurrencyApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:24:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\Currency.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Domain\\ValueObjects\\Currency.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\Currency.cs",
+              "RelativeToolTip": "CurrencyConverter.Domain\\ValueObjects\\Currency.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:30:25.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CurrencyConversionDomainService.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Services\\CurrencyConversionDomainService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Domain\\Services\\CurrencyConversionDomainService.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Services\\CurrencyConversionDomainService.cs",
+              "RelativeToolTip": "CurrencyConverter.Domain\\Services\\CurrencyConversionDomainService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:30:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CurrencyCode.cs",
+              "DocumentMoniker": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\CurrencyCode.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.Domain\\ValueObjects\\CurrencyCode.cs",
+              "ToolTip": "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\CurrencyCode.cs",
+              "RelativeToolTip": "CurrencyConverter.Domain\\ValueObjects\\CurrencyCode.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:26:09.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

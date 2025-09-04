@@ -1,0 +1,34 @@
+version 3.9
+services
+  api1
+    image currencyconverterlatest
+    build
+      context .
+      dockerfile Dockerfile
+    environment
+      ASPNETCORE_ENVIRONMENT Production
+      ASPNETCORE_URLS http+8080
+    expose
+      - 8080
+  api2
+    image currencyconverterlatest
+    depends_on [api1]
+    environment
+      ASPNETCORE_ENVIRONMENT Production
+      ASPNETCORE_URLS http+8080
+    expose [8080]
+  api3
+    image currencyconverterlatest
+    depends_on [api1]
+    environment
+      ASPNETCORE_ENVIRONMENT Production
+      ASPNETCORE_URLS http+8080
+    expose [8080]
+
+  nginx
+    image nginxstable
+    ports
+      - 808080
+    volumes
+      - .nginx.confetcnginxnginx.confro
+    depends_on [api1, api2, api3]

@@ -1,0 +1,51 @@
+﻿using System;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using CurrencyConverter.Application.Interfaces;
+using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
+
+namespace CurrencyConverter.Infrastructure.Services
+{
+    public class TokenService : ITokenService
+    {
+        private readonly IConfiguration _configuration;
+
+        public TokenService(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
+        public string GenerateToken(string username, string role)
+        {
+            var jwt = _configuration.GetSection("Jwt");
+            var secret = jwt["Secret"]!;
+            var issuer = jwt["Issuer"]!;
+            var audience = jwt["Audience"]!;
+            var expiryMinutes = int.TryParse(jwt["ExpiryMinutes"], out var m) ? m : 120;
+
+            var claims = new[]
+            {
+                new Claim(JwtRegisteredClaimNames.Sub, username),
+                new Claim(JwtRegisteredClaimNames.UniqueName, username),
+                new Claim(ClaimTypes.Role, role), // This will map correctly to the role claim
+                new Claim("role", role) // Adding an additional claim in simple format
+            };
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secret));
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+            var expires = DateTime.UtcNow.AddMinutes(expiryMinutes);
+
+            var token = new JwtSecurityToken(
+                issuer: issuer,
+                audience: audience,
+                claims: claims,
+                notBefore: DateTime.UtcNow,
+                expires: expires,
+                signingCredentials: creds);
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
+        }
+    }
+}

@@ -1,0 +1,4357 @@
+{
+  "CurrencyConverter.Api.dll": {
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Program.cs": {
+      "Program": {
+        "System.Void Program::Main(System.String[])": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "53": 0,
+            "56": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "180": 0,
+            "182": 0,
+            "185": 0,
+            "186": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "195": 0,
+            "198": 0,
+            "199": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0
+          },
+          "Branches": [
+            {
+              "Line": 63,
+              "Offset": 362,
+              "EndOffset": 364,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 362,
+              "EndOffset": 376,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 188,
+              "Offset": 606,
+              "EndOffset": 608,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 188,
+              "Offset": 606,
+              "EndOffset": 628,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 39,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 51,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 63,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 63,
+              "EndOffset": 71,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 86,
+              "EndOffset": 88,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 86,
+              "EndOffset": 92,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 98,
+              "EndOffset": 100,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 98,
+              "EndOffset": 106,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 165,
+              "EndOffset": 114,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 165,
+              "EndOffset": 167,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Models\\CurrencyConversionRequest.cs": {
+      "CurrencyConverter.Api.Models.CurrencyConversionRequest": {
+        "System.String CurrencyConverter.Api.Models.CurrencyConversionRequest::get_From()": {
+          "Lines": {
+            "5": 10
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Api.Models.CurrencyConversionRequest::get_To()": {
+          "Lines": {
+            "6": 9
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Api.Models.CurrencyConversionRequest::get_Amount()": {
+          "Lines": {
+            "7": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Middleware\\ExceptionHandlingMiddleware.cs": {
+      "CurrencyConverter.Api.Middleware.ExceptionHandlingMiddleware": {
+        "System.Threading.Tasks.Task CurrencyConverter.Api.Middleware.ExceptionHandlingMiddleware::HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext,System.Exception)": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Api.Middleware.ExceptionHandlingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger`1<CurrencyConverter.Api.Middleware.ExceptionHandlingMiddleware>)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Api.Middleware.ExceptionHandlingMiddleware/<InvokeAsync>d__3": {
+        "System.Void CurrencyConverter.Api.Middleware.ExceptionHandlingMiddleware/<InvokeAsync>d__3::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Middleware\\RequestLoggingMiddleware.cs": {
+      "CurrencyConverter.Api.Middleware.RequestLoggingMiddleware": {
+        "System.Void CurrencyConverter.Api.Middleware.RequestLoggingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate)": {
+          "Lines": {
+            "12": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Api.Middleware.RequestLoggingMiddleware/<>c": {
+        "System.Boolean CurrencyConverter.Api.Middleware.RequestLoggingMiddleware/<>c::<InvokeAsync>b__3_0(System.Security.Claims.Claim)": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Api.Middleware.RequestLoggingMiddleware/<InvokeAsync>d__3": {
+        "System.Void CurrencyConverter.Api.Middleware.RequestLoggingMiddleware/<InvokeAsync>d__3::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 47,
+              "EndOffset": 49,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 47,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 59,
+              "EndOffset": 61,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 59,
+              "EndOffset": 67,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 176,
+              "EndOffset": 178,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 176,
+              "EndOffset": 196,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 199,
+              "EndOffset": 204,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 320,
+              "EndOffset": 322,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 320,
+              "EndOffset": 326,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 199,
+              "EndOffset": 351,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\AuthController.cs": {
+      "CurrencyConverter.Api.Controllers.AuthController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult CurrencyConverter.Api.Controllers.AuthController::Login(CurrencyConverter.Api.Controllers.LoginRequest)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 30,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 53,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 102,
+              "EndOffset": 104,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 102,
+              "EndOffset": 114,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 23,
+              "EndOffset": 49,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CurrencyConverter.Api.Controllers.AuthController::.ctor(CurrencyConverter.Application.Interfaces.ITokenService,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 45,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "CurrencyConverter.Api.Controllers.LoginRequest": {
+        "System.String CurrencyConverter.Api.Controllers.LoginRequest::get_Username()": {
+          "Lines": {
+            "47": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Api.Controllers.LoginRequest::get_Password()": {
+          "Lines": {
+            "48": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Api.Controllers.UserConfig": {
+        "System.String CurrencyConverter.Api.Controllers.UserConfig::get_Username()": {
+          "Lines": {
+            "53": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Api.Controllers.UserConfig::get_Password()": {
+          "Lines": {
+            "54": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Api.Controllers.UserConfig::get_Role()": {
+          "Lines": {
+            "55": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\CurrencyController.cs": {
+      "CurrencyConverter.Api.Controllers.CurrencyController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult CurrencyConverter.Api.Controllers.CurrencyController::DebugAuth()": {
+          "Lines": {
+            "59": 0,
+            "60": 0,
+            "63": 0,
+            "66": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0
+          },
+          "Branches": [
+            {
+              "Line": 63,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 20,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 173,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 173,
+              "EndOffset": 179,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult CurrencyConverter.Api.Controllers.CurrencyController::Health()": {
+          "Lines": {
+            "86": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Api.Controllers.CurrencyController::.ctor(CurrencyConverter.Application.Abstractions.ICurrencyConversionService)": {
+          "Lines": {
+            "18": 4,
+            "19": 4,
+            "20": 4,
+            "21": 4
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Api.Controllers.CurrencyController/<Convert>d__2": {
+        "System.Void CurrencyConverter.Api.Controllers.CurrencyController/<Convert>d__2::MoveNext()": {
+          "Lines": {
+            "32": 4,
+            "33": 4,
+            "34": 1,
+            "36": 3,
+            "37": 1,
+            "39": 2,
+            "40": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "51": 1,
+            "53": 1,
+            "54": 4
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 33,
+              "Offset": 29,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 36,
+              "Offset": 69,
+              "EndOffset": 71,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 36,
+              "Offset": 69,
+              "EndOffset": 89,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 36,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 36,
+              "Offset": 92,
+              "EndOffset": 116,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 39,
+              "Offset": 141,
+              "EndOffset": 143,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 141,
+              "EndOffset": 165,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Api\\Controllers\\DebugController.cs": {
+      "CurrencyConverter.Api.Controllers.DebugController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult CurrencyConverter.Api.Controllers.DebugController::ValidateToken()": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "55": 0,
+            "56": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 44,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 68,
+              "EndOffset": 70,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 68,
+              "EndOffset": 88,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult CurrencyConverter.Api.Controllers.DebugController::TestAuth()": {
+          "Lines": {
+            "82": 0,
+            "83": 0,
+            "84": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Api.Controllers.DebugController::.ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.Logging.ILogger`1<CurrencyConverter.Api.Controllers.DebugController>)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "CurrencyConverter.Application.dll": {
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Program.cs": {
+      "CurrencyConverter.Application.Program": {
+        "System.Void CurrencyConverter.Application.Program::Main(System.String[])": {
+          "Lines": {
+            "6": 0,
+            "7": 0,
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Validators\\RequestValidators.cs": {
+      "CurrencyConverter.Application.Validators.RequestValidators": {
+        "System.Void CurrencyConverter.Application.Validators.RequestValidators::Validate(CurrencyConverter.Application.DTOs.ConversionRequestDto)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 19,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CurrencyConverter.Application.Validators.RequestValidators::Validate(CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 24,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Services\\CurrencyConversionService.cs": {
+      "CurrencyConverter.Application.Services.CurrencyConversionService": {
+        "System.Void CurrencyConverter.Application.Services.CurrencyConversionService::.ctor(CurrencyConverter.Application.Interfaces.ICurrencyProviderFactory,ICurrencyApiService,System.String[])": {
+          "Lines": {
+            "18": 5,
+            "19": 5,
+            "20": 5,
+            "21": 5,
+            "22": 5,
+            "23": 5,
+            "24": 5,
+            "25": 5,
+            "26": 5
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 11,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            },
+            {
+              "Line": 24,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 33,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 5
+            },
+            {
+              "Line": 25,
+              "Offset": 55,
+              "EndOffset": 57,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 55,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 5
+            }
+          ]
+        }
+      },
+      "CurrencyConverter.Application.Services.CurrencyConversionService/<>c__DisplayClass4_0": {
+        "System.Boolean CurrencyConverter.Application.Services.CurrencyConversionService/<>c__DisplayClass4_0::<ConvertAsync>b__0(System.String)": {
+          "Lines": {
+            "33": 19
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Application.Services.CurrencyConversionService/<ConvertAsync>d__4": {
+        "System.Void CurrencyConverter.Application.Services.CurrencyConversionService/<ConvertAsync>d__4::MoveNext()": {
+          "Lines": {
+            "29": 5,
+            "30": 5,
+            "34": 4,
+            "36": 1,
+            "37": 1,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "44": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1,
+            "50": 1,
+            "51": 1,
+            "52": 1
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 62,
+              "EndOffset": 75,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            },
+            {
+              "Line": 33,
+              "Offset": 110,
+              "EndOffset": 112,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 4
+            },
+            {
+              "Line": 33,
+              "Offset": 110,
+              "EndOffset": 144,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 36,
+              "Offset": 178,
+              "EndOffset": 180,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 178,
+              "EndOffset": 213,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\Services\\ExchangeRateService.cs": {
+      "CurrencyConverter.Application.Services.ExchangeRateService": {
+        "System.Void CurrencyConverter.Application.Services.ExchangeRateService::.ctor(CurrencyConverter.Application.Interfaces.ICurrencyProviderFactory)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Application.Services.ExchangeRateService/<>c": {
+        "CurrencyConverter.Application.DTOs.ExchangeRateDto CurrencyConverter.Application.Services.ExchangeRateService/<>c::<GetHistoricalRatesAsync>b__3_0(CurrencyConverter.Domain.Entities.RateSnapshot)": {
+          "Lines": {
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Application.Services.ExchangeRateService/<GetHistoricalRatesAsync>d__3": {
+        "System.Void CurrencyConverter.Application.Services.ExchangeRateService/<GetHistoricalRatesAsync>d__3::MoveNext()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Application.Services.ExchangeRateService/<GetLatestRatesAsync>d__2": {
+        "System.Void CurrencyConverter.Application.Services.ExchangeRateService/<GetLatestRatesAsync>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\DTOs\\ConversionRequestDto.cs": {
+      "CurrencyConverter.Application.DTOs.ConversionRequestDto": {
+        "System.String CurrencyConverter.Application.DTOs.ConversionRequestDto::get_From()": {
+          "Lines": {
+            "11": 33
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Application.DTOs.ConversionRequestDto::get_To()": {
+          "Lines": {
+            "16": 14
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Application.DTOs.ConversionRequestDto::get_Amount()": {
+          "Lines": {
+            "21": 8
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Application.DTOs.ConversionRequestDto::get_Provider()": {
+          "Lines": {
+            "23": 11
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\DTOs\\ConversionResultDto.cs": {
+      "CurrencyConverter.Application.DTOs.ConversionResultDto": {
+        "System.Decimal CurrencyConverter.Application.DTOs.ConversionResultDto::get_OriginalAmount()": {
+          "Lines": {
+            "4": 2
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Application.DTOs.ConversionResultDto::get_From()": {
+          "Lines": {
+            "5": 2
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Application.DTOs.ConversionResultDto::get_To()": {
+          "Lines": {
+            "6": 2
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Application.DTOs.ConversionResultDto::get_ConvertedAmount()": {
+          "Lines": {
+            "7": 2
+          },
+          "Branches": []
+        },
+        "System.DateTime CurrencyConverter.Application.DTOs.ConversionResultDto::get_RateDate()": {
+          "Lines": {
+            "8": 3
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Application.DTOs.ConversionResultDto::get_ResultAmount()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Application.DTOs.ConversionResultDto::.ctor(System.Decimal,System.String,System.String,System.Decimal,System.DateTime)": {
+          "Lines": {
+            "3": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\DTOs\\ExchangeRateDto.cs": {
+      "CurrencyConverter.Application.DTOs.ExchangeRateDto": {
+        "System.String CurrencyConverter.Application.DTOs.ExchangeRateDto::get_BaseCurrency()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime CurrencyConverter.Application.DTOs.ExchangeRateDto::get_Date()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Decimal> CurrencyConverter.Application.DTOs.ExchangeRateDto::get_Rates()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Application.DTOs.ExchangeRateDto::.ctor(System.String,System.DateTime,System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Decimal>)": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\DTOs\\HistoricalRatesRequestDto.cs": {
+      "CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto": {
+        "System.String CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto::get_BaseCurrency()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        },
+        "System.DateOnly CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto::get_StartDate()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.DateOnly CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto::get_EndDate()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto::get_Page()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto::get_PageSize()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto::get_Provider()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Application.DTOs.HistoricalRatesRequestDto::.ctor(System.String,System.DateOnly,System.DateOnly,System.Int32,System.Int32,System.String)": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\DTOs\\HistoricalRatesResultDto.cs": {
+      "CurrencyConverter.Application.DTOs.HistoricalRatesResultDto": {
+        "System.String CurrencyConverter.Application.DTOs.HistoricalRatesResultDto::get_BaseCurrency()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<CurrencyConverter.Application.DTOs.ExchangeRateDto> CurrencyConverter.Application.DTOs.HistoricalRatesResultDto::get_Items()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Application.DTOs.HistoricalRatesResultDto::get_Page()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Application.DTOs.HistoricalRatesResultDto::get_PageSize()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Application.DTOs.HistoricalRatesResultDto::get_TotalCount()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Application.DTOs.HistoricalRatesResultDto::.ctor(System.String,System.Collections.Generic.IEnumerable`1<CurrencyConverter.Application.DTOs.ExchangeRateDto>,System.Int32,System.Int32,System.Int32)": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\DTOs\\PaginationDto.cs": {
+      "CurrencyConverter.Application.DTOs.PaginationDto": {
+        "System.Int32 CurrencyConverter.Application.DTOs.PaginationDto::get_Page()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Application.DTOs.PaginationDto::get_PageSize()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Application.DTOs.PaginationDto::get_TotalCount()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Application.DTOs.PaginationDto::.ctor(System.Int32,System.Int32,System.Int32)": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Application\\DependencyInjection\\ApplicationServiceCollectionExtensions.cs": {
+      "CurrencyConverter.Application.DependencyInjection.ApplicationServiceCollectionExtensions": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection CurrencyConverter.Application.DependencyInjection.ApplicationServiceCollectionExtensions::AddApplicationServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "11": 0,
+            "13": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "CurrencyConverter.Domain.dll": {
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Errors\\ValidationException.cs": {
+      "ValidationException": {
+        "System.String ValidationException::get_Code()": {
+          "Lines": {
+            "3": 1
+          },
+          "Branches": []
+        },
+        "System.Void ValidationException::.ctor(System.String)": {
+          "Lines": {
+            "5": 3
+          },
+          "Branches": []
+        },
+        "System.Void ValidationException::.ctor(System.String,System.String)": {
+          "Lines": {
+            "7": 4,
+            "8": 4,
+            "9": 4,
+            "10": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Program.cs": {
+      "CurrencyConverter.Domain.Program": {
+        "System.Void CurrencyConverter.Domain.Program::Main(System.String[])": {
+          "Lines": {
+            "6": 0,
+            "7": 0,
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\Currency.cs": {
+      "CurrencyConverter.Domain.ValueObjects.Currency": {
+        "System.String CurrencyConverter.Domain.ValueObjects.Currency::get_Code()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.Currency CurrencyConverter.Domain.ValueObjects.Currency::Create(System.String,System.Boolean)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.Currency CurrencyConverter.Domain.ValueObjects.Currency::From(System.String,System.Boolean)": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.CurrencyCode CurrencyConverter.Domain.ValueObjects.Currency::ToCurrencyCode()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.CurrencyCode CurrencyConverter.Domain.ValueObjects.Currency::op_Implicit(CurrencyConverter.Domain.ValueObjects.Currency)": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.Currency::Equals(CurrencyConverter.Domain.ValueObjects.Currency)": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 1,
+              "EndOffset": 3,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 1,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.Currency::Equals(System.Object)": {
+          "Lines": {
+            "37": 0
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 8,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.Currency::GetHashCode()": {
+          "Lines": {
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Domain.ValueObjects.Currency::ToString()": {
+          "Lines": {
+            "41": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.ValueObjects.Currency::.ctor(System.String)": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\CurrencyCode.cs": {
+      "CurrencyConverter.Domain.ValueObjects.CurrencyCode": {
+        "System.String CurrencyConverter.Domain.ValueObjects.CurrencyCode::get_Value()": {
+          "Lines": {
+            "15": 22
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.CurrencyCode CurrencyConverter.Domain.ValueObjects.CurrencyCode::Create(System.String,System.Boolean)": {
+          "Lines": {
+            "20": 18,
+            "21": 18,
+            "22": 17,
+            "23": 3,
+            "24": 3,
+            "26": 14,
+            "28": 14,
+            "29": 0,
+            "31": 14,
+            "32": 14
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 22,
+              "Offset": 29,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 14
+            },
+            {
+              "Line": 28,
+              "Offset": 68,
+              "EndOffset": 70,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 68,
+              "EndOffset": 77,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 14
+            }
+          ]
+        },
+        "System.String CurrencyConverter.Domain.ValueObjects.CurrencyCode::ToString()": {
+          "Lines": {
+            "34": 8
+          },
+          "Branches": []
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.CurrencyCode::Equals(CurrencyConverter.Domain.ValueObjects.CurrencyCode)": {
+          "Lines": {
+            "36": 1
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 1,
+              "EndOffset": 3,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 36,
+              "Offset": 1,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.CurrencyCode::Equals(System.Object)": {
+          "Lines": {
+            "37": 1
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 8,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.CurrencyCode::GetHashCode()": {
+          "Lines": {
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.ValueObjects.CurrencyCode::.ctor(System.String)": {
+          "Lines": {
+            "17": 28
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.ValueObjects.CurrencyCode::.cctor()": {
+          "Lines": {
+            "13": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\DateRange.cs": {
+      "CurrencyConverter.Domain.ValueObjects.DateRange": {
+        "System.DateOnly CurrencyConverter.Domain.ValueObjects.DateRange::get_Start()": {
+          "Lines": {
+            "8": 3
+          },
+          "Branches": []
+        },
+        "System.DateOnly CurrencyConverter.Domain.ValueObjects.DateRange::get_End()": {
+          "Lines": {
+            "9": 3
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.DateRange CurrencyConverter.Domain.ValueObjects.DateRange::Create(System.DateOnly,System.DateOnly)": {
+          "Lines": {
+            "18": 3,
+            "19": 3,
+            "20": 1,
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 1,
+            "27": 2,
+            "28": 2
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 19,
+              "Offset": 10,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.DateRange::get_Days()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.DateRange::Contains(System.DateOnly)": {
+          "Lines": {
+            "38": 2
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 38,
+              "Offset": 12,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.DateRange::Equals(CurrencyConverter.Domain.ValueObjects.DateRange)": {
+          "Lines": {
+            "40": 0
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 1,
+              "EndOffset": 3,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 1,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 20,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.DateRange::Equals(System.Object)": {
+          "Lines": {
+            "42": 0
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 8,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.DateRange::GetHashCode()": {
+          "Lines": {
+            "43": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Domain.ValueObjects.DateRange::ToString()": {
+          "Lines": {
+            "44": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.ValueObjects.DateRange::.ctor(System.DateOnly,System.DateOnly)": {
+          "Lines": {
+            "11": 2,
+            "12": 2,
+            "13": 2,
+            "14": 2,
+            "15": 2
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Domain.ValueObjects.DateRange/<EnumerateDays>d__10": {
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.DateRange/<EnumerateDays>d__10::MoveNext()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 121,
+              "EndOffset": 51,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 121,
+              "EndOffset": 123,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\Money.cs": {
+      "CurrencyConverter.Domain.ValueObjects.Money": {
+        "System.Decimal CurrencyConverter.Domain.ValueObjects.Money::get_Amount()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.CurrencyCode CurrencyConverter.Domain.ValueObjects.Money::get_Currency()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.Money CurrencyConverter.Domain.ValueObjects.Money::Create(System.Decimal,CurrencyConverter.Domain.ValueObjects.CurrencyCode)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.Money CurrencyConverter.Domain.ValueObjects.Money::WithAmount(System.Decimal)": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.Money::Equals(CurrencyConverter.Domain.ValueObjects.Money)": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 1,
+              "EndOffset": 3,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 1,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 20,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.Money::Equals(System.Object)": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.Money::GetHashCode()": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Domain.ValueObjects.Money::ToString()": {
+          "Lines": {
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.ValueObjects.Money::.ctor(System.Decimal,CurrencyConverter.Domain.ValueObjects.CurrencyCode)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\ValueObjects\\Pagination.cs": {
+      "CurrencyConverter.Domain.ValueObjects.Pagination": {
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.Pagination::get_Page()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.Pagination::get_PageSize()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.Pagination CurrencyConverter.Domain.ValueObjects.Pagination::Create(System.Int32,System.Int32)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 23,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.Pagination::get_Skip()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.Pagination::get_Take()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.Pagination::Equals(CurrencyConverter.Domain.ValueObjects.Pagination)": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 1,
+              "EndOffset": 3,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 1,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 15,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.ValueObjects.Pagination::Equals(System.Object)": {
+          "Lines": {
+            "34": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 8,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.ValueObjects.Pagination::GetHashCode()": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Domain.ValueObjects.Pagination::ToString()": {
+          "Lines": {
+            "36": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.ValueObjects.Pagination::.ctor(System.Int32,System.Int32)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Services\\CurrencyConversionDomainService.cs": {
+      "CurrencyConverter.Domain.Services.CurrencyConversionDomainService": {
+        "CurrencyConverter.Domain.ValueObjects.Money CurrencyConverter.Domain.Services.CurrencyConversionDomainService::Convert(CurrencyConverter.Domain.ValueObjects.Money,CurrencyConverter.Domain.ValueObjects.CurrencyCode,CurrencyConverter.Domain.Entities.RateSnapshot)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "27": 0,
+            "28": 0,
+            "31": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 61,
+              "EndOffset": 63,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 61,
+              "EndOffset": 71,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 94,
+              "EndOffset": 96,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 94,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 134,
+              "EndOffset": 136,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 134,
+              "EndOffset": 168,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Primitives\\Guard.cs": {
+      "CurrencyConverter.Domain.Primitives.Guard": {
+        "System.Void CurrencyConverter.Domain.Primitives.Guard::AgainstNull(T,System.String)": {
+          "Lines": {
+            "8": 4,
+            "9": 4,
+            "10": 0,
+            "11": 4
+          },
+          "Branches": [
+            {
+              "Line": 9,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 12,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        },
+        "System.Void CurrencyConverter.Domain.Primitives.Guard::AgainstNullOrWhiteSpace(System.String,System.String)": {
+          "Lines": {
+            "14": 18,
+            "15": 18,
+            "16": 1,
+            "17": 17
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 15,
+              "Offset": 9,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 17
+            }
+          ]
+        },
+        "System.Void CurrencyConverter.Domain.Primitives.Guard::AgainstOutOfRange(System.Boolean,System.String)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 4,
+              "EndOffset": 6,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 4,
+              "EndOffset": 13,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CurrencyConverter.Domain.Primitives.Guard::AgainstOutOfRange(System.Boolean,System.String,System.String)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 4,
+              "EndOffset": 6,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 4,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Primitives\\Result.cs": {
+      "CurrencyConverter.Domain.Primitives.Result": {
+        "System.Boolean CurrencyConverter.Domain.Primitives.Result::get_IsSuccess()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.Primitives.Result CurrencyConverter.Domain.Primitives.Result::Success()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.Primitives.Result CurrencyConverter.Domain.Primitives.Result::Failure(System.String)": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Domain.Primitives.Result`1": {
+        "System.Boolean CurrencyConverter.Domain.Primitives.Result`1::get_IsSuccess()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.Primitives.Result`1<T> CurrencyConverter.Domain.Primitives.Result`1::Success(T)": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.Primitives.Result`1<T> CurrencyConverter.Domain.Primitives.Result`1::Failure(System.String)": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Policies\\CurrencyPolicies.cs": {
+      "CurrencyConverter.Domain.Policies.CurrencyPolicies": {
+        "System.Void CurrencyConverter.Domain.Policies.CurrencyPolicies::EnsureNotBlacklisted(System.String)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": [
+            {
+              "Line": 18,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 18,
+              "Offset": 14,
+              "EndOffset": 43,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CurrencyConverter.Domain.Policies.CurrencyPolicies::.cctor()": {
+          "Lines": {
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Errors\\DomainException.cs": {
+      "CurrencyConverter.Domain.Errors.DomainException": {
+        "System.String CurrencyConverter.Domain.Errors.DomainException::get_Code()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.Errors.DomainException::GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.Errors.DomainException::.ctor(System.String,System.String)": {
+          "Lines": {
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.Errors.DomainException::.ctor(System.String,System.String,System.Exception)": {
+          "Lines": {
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.Errors.DomainException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)": {
+          "Lines": {
+            "16": 0,
+            "17": 0
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 22,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 22,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Entities\\CurrencyConversionHistory.cs": {
+      "CurrencyConverter.Domain.Entities.CurrencyConversionHistory": {
+        "System.Int32 CurrencyConverter.Domain.Entities.CurrencyConversionHistory::get_Id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Domain.Entities.CurrencyConversionHistory::get_SourceCurrency()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Domain.Entities.CurrencyConversionHistory::get_TargetCurrency()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Domain.Entities.CurrencyConversionHistory::get_Amount()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Domain.Entities.CurrencyConversionHistory::get_Rate()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Domain.Entities.CurrencyConversionHistory::get_ResultAmount()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime CurrencyConverter.Domain.Entities.CurrencyConversionHistory::get_ConvertedAt()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Entities\\ExchangeRate.cs": {
+      "CurrencyConverter.Domain.Entities.ExchangeRate": {
+        "CurrencyConverter.Domain.ValueObjects.CurrencyCode CurrencyConverter.Domain.Entities.ExchangeRate::get_BaseCurrency()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.CurrencyCode CurrencyConverter.Domain.Entities.ExchangeRate::get_QuoteCurrency()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Domain.Entities.ExchangeRate::get_Rate()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.Entities.ExchangeRate CurrencyConverter.Domain.Entities.ExchangeRate::Create(CurrencyConverter.Domain.ValueObjects.CurrencyCode,CurrencyConverter.Domain.ValueObjects.CurrencyCode,System.Decimal)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean CurrencyConverter.Domain.Entities.ExchangeRate::Equals(CurrencyConverter.Domain.Entities.ExchangeRate)": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 1,
+              "EndOffset": 3,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 1,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 20,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 39,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.Entities.ExchangeRate::Equals(System.Object)": {
+          "Lines": {
+            "38": 0
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 8,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.Entities.ExchangeRate::GetHashCode()": {
+          "Lines": {
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Domain.Entities.ExchangeRate::ToString()": {
+          "Lines": {
+            "40": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.Entities.ExchangeRate::.ctor(CurrencyConverter.Domain.ValueObjects.CurrencyCode,CurrencyConverter.Domain.ValueObjects.CurrencyCode,System.Decimal)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Domain\\Entities\\RateSnapshot.cs": {
+      "CurrencyConverter.Domain.Entities.RateSnapshot": {
+        "System.DateOnly CurrencyConverter.Domain.Entities.RateSnapshot::get_Date()": {
+          "Lines": {
+            "13": 1
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.ValueObjects.CurrencyCode CurrencyConverter.Domain.Entities.RateSnapshot::get_BaseCurrency()": {
+          "Lines": {
+            "14": 2
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Decimal> CurrencyConverter.Domain.Entities.RateSnapshot::get_Rates()": {
+          "Lines": {
+            "15": 2
+          },
+          "Branches": []
+        },
+        "CurrencyConverter.Domain.Entities.RateSnapshot CurrencyConverter.Domain.Entities.RateSnapshot::Create(System.DateOnly,CurrencyConverter.Domain.ValueObjects.CurrencyCode,System.Collections.Generic.IDictionary`2<System.String,System.Decimal>)": {
+          "Lines": {
+            "25": 2,
+            "26": 2,
+            "27": 2,
+            "30": 2,
+            "31": 14,
+            "32": 4,
+            "33": 4,
+            "34": 4,
+            "35": 4,
+            "36": 4,
+            "38": 2,
+            "39": 0,
+            "41": 2,
+            "42": 2,
+            "43": 2
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 138,
+              "EndOffset": 46,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 4
+            },
+            {
+              "Line": 33,
+              "Offset": 68,
+              "EndOffset": 72,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 34,
+              "Offset": 93,
+              "EndOffset": 97,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 33,
+              "Offset": 68,
+              "EndOffset": 132,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 34,
+              "Offset": 93,
+              "EndOffset": 132,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 6
+            },
+            {
+              "Line": 31,
+              "Offset": 138,
+              "EndOffset": 140,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 38,
+              "Offset": 166,
+              "EndOffset": 168,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 166,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Decimal CurrencyConverter.Domain.Entities.RateSnapshot::GetDirectRate(CurrencyConverter.Domain.ValueObjects.CurrencyCode)": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": [
+            {
+              "Line": 47,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 15,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 52,
+              "EndOffset": 54,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 52,
+              "EndOffset": 176,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.Entities.RateSnapshot::Equals(CurrencyConverter.Domain.Entities.RateSnapshot)": {
+          "Lines": {
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0
+          },
+          "Branches": [
+            {
+              "Line": 58,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 7,
+              "EndOffset": 16,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 35,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 66,
+              "EndOffset": 68,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 66,
+              "EndOffset": 75,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 106,
+              "EndOffset": 108,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 106,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 203,
+              "EndOffset": 128,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 165,
+              "EndOffset": 167,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 165,
+              "EndOffset": 171,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 189,
+              "EndOffset": 191,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 189,
+              "EndOffset": 195,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 203,
+              "EndOffset": 205,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CurrencyConverter.Domain.Entities.RateSnapshot::Equals(System.Object)": {
+          "Lines": {
+            "71": 0
+          },
+          "Branches": [
+            {
+              "Line": 71,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 8,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32 CurrencyConverter.Domain.Entities.RateSnapshot::GetHashCode()": {
+          "Lines": {
+            "72": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Domain.Entities.RateSnapshot::ToString()": {
+          "Lines": {
+            "73": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Domain.Entities.RateSnapshot::.ctor(System.DateOnly,CurrencyConverter.Domain.ValueObjects.CurrencyCode,System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Decimal>)": {
+          "Lines": {
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2,
+            "21": 2,
+            "22": 2
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "CurrencyConverter.Infrastructure.dll": {
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Program.cs": {
+      "CurrencyConverter.Infrastructure.Program": {
+        "System.Void CurrencyConverter.Infrastructure.Program::Main(System.String[])": {
+          "Lines": {
+            "6": 0,
+            "7": 0,
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\CurrencyApiOptions.cs": {
+      "CurrencyConverter.Infrastructure.Services.CurrencyApiOptions": {
+        "System.String CurrencyConverter.Infrastructure.Services.CurrencyApiOptions::get_BaseUrl()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Infrastructure.Services.CurrencyApiOptions::get_ApiKey()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\CurrencyApiService.cs": {
+      "CurrencyConverter.Infrastructure.Services.CurrencyApiService": {
+        "System.Void CurrencyConverter.Infrastructure.Services.CurrencyApiService::.ctor(System.Net.Http.HttpClient)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Services.CurrencyApiService/ExchangeRateResponse": {
+        "System.Decimal CurrencyConverter.Infrastructure.Services.CurrencyApiService/ExchangeRateResponse::get_Result()": {
+          "Lines": {
+            "45": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Services.CurrencyApiService/LatestRatesResponse": {
+        "System.String CurrencyConverter.Infrastructure.Services.CurrencyApiService/LatestRatesResponse::get_Base()": {
+          "Lines": {
+            "50": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.Dictionary`2<System.String,System.Decimal> CurrencyConverter.Infrastructure.Services.CurrencyApiService/LatestRatesResponse::get_Rates()": {
+          "Lines": {
+            "51": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Services.CurrencyApiService/<>c": {
+        "CurrencyConverter.Domain.ValueObjects.Currency CurrencyConverter.Infrastructure.Services.CurrencyApiService/<>c::<GetLatestRatesAsync>b__3_0(System.Collections.Generic.KeyValuePair`2<System.String,System.Decimal>)": {
+          "Lines": {
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal CurrencyConverter.Infrastructure.Services.CurrencyApiService/<>c::<GetLatestRatesAsync>b__3_1(System.Collections.Generic.KeyValuePair`2<System.String,System.Decimal>)": {
+          "Lines": {
+            "38": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Services.CurrencyApiService/<GetExchangeRateAsync>d__2": {
+        "System.Void CurrencyConverter.Infrastructure.Services.CurrencyApiService/<GetExchangeRateAsync>d__2::MoveNext()": {
+          "Lines": {
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 213,
+              "EndOffset": 215,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 213,
+              "EndOffset": 238,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 243,
+              "EndOffset": 245,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 243,
+              "EndOffset": 288,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "CurrencyConverter.Infrastructure.Services.CurrencyApiService/<GetLatestRatesAsync>d__3": {
+        "System.Void CurrencyConverter.Infrastructure.Services.CurrencyApiService/<GetLatestRatesAsync>d__3::MoveNext()": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 194,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 194,
+              "EndOffset": 212,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 217,
+              "EndOffset": 219,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 217,
+              "EndOffset": 246,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Services\\TokenService.cs": {
+      "CurrencyConverter.Infrastructure.Services.TokenService": {
+        "System.String CurrencyConverter.Infrastructure.Services.TokenService::GenerateToken(System.String,System.String)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 72,
+              "EndOffset": 74,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 72,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CurrencyConverter.Infrastructure.Services.TokenService::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Repositories\\CurrencyConversionHistoryRepository.cs": {
+      "CurrencyConverter.Infrastructure.Repositories.CurrencyConversionHistoryRepository": {
+        "System.Void CurrencyConverter.Infrastructure.Repositories.CurrencyConversionHistoryRepository::.ctor(CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Repositories.CurrencyConversionHistoryRepository/<AddAsync>d__2": {
+        "System.Void CurrencyConverter.Infrastructure.Repositories.CurrencyConversionHistoryRepository/<AddAsync>d__2::MoveNext()": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Repositories.CurrencyConversionHistoryRepository/<GetAllAsync>d__3": {
+        "System.Void CurrencyConverter.Infrastructure.Repositories.CurrencyConversionHistoryRepository/<GetAllAsync>d__3::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Repositories\\CurrencyRepository.cs": {
+      "CurrencyConverter.Infrastructure.Repositories.CurrencyRepository": {
+        "System.Void CurrencyConverter.Infrastructure.Repositories.CurrencyRepository::.ctor(CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Repositories.CurrencyRepository/<SaveConversionAsync>d__2": {
+        "System.Void CurrencyConverter.Infrastructure.Repositories.CurrencyRepository/<SaveConversionAsync>d__2::MoveNext()": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Providers\\CurrencyProviderFactory.cs": {
+      "CurrencyConverter.Infrastructure.Providers.CurrencyProviderFactory": {
+        "CurrencyConverter.Application.Interfaces.ICurrencyProvider CurrencyConverter.Infrastructure.Providers.CurrencyProviderFactory::GetProvider(System.String)": {
+          "Lines": {
+            "15": 4,
+            "16": 4,
+            "17": 2,
+            "20": 2,
+            "21": 1,
+            "23": 1,
+            "24": 3
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 17,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 16,
+              "Offset": 17,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 20,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 20,
+              "Offset": 45,
+              "EndOffset": 51,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void CurrencyConverter.Infrastructure.Providers.CurrencyProviderFactory::.ctor(System.Collections.Generic.IEnumerable`1<CurrencyConverter.Application.Interfaces.ICurrencyProvider>)": {
+          "Lines": {
+            "9": 3,
+            "10": 3,
+            "11": 6,
+            "12": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Providers\\Frankfurter\\FrankfurterModels.cs": {
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.LatestResponse": {
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.LatestResponse::get_Base()": {
+          "Lines": {
+            "7": 7
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.LatestResponse::get_Date()": {
+          "Lines": {
+            "8": 7
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.Dictionary`2<System.String,System.Decimal> CurrencyConverter.Infrastructure.Providers.Frankfurter.LatestResponse::get_Rates()": {
+          "Lines": {
+            "9": 9
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.HistoricalResponse": {
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.HistoricalResponse::get_StartDate()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.HistoricalResponse::get_EndDate()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.HistoricalResponse::get_Base()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.Dictionary`2<System.String,System.Decimal>> CurrencyConverter.Infrastructure.Providers.Frankfurter.HistoricalResponse::get_RatesByDate()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Providers\\Frankfurter\\FrankfurterOptions.cs": {
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterOptions": {
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterOptions::get_BaseUrl()": {
+          "Lines": {
+            "5": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Providers\\Frankfurter\\FrankfurterProvider.cs": {
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider": {
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider::get_Name()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider::.ctor(System.Net.Http.IHttpClientFactory,Microsoft.Extensions.Caching.Memory.IMemoryCache,Microsoft.Extensions.Options.IOptions`1<CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterOptions>,Microsoft.Extensions.Logging.ILogger`1<CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider>)": {
+          "Lines": {
+            "23": 3,
+            "24": 3,
+            "25": 3,
+            "26": 3,
+            "27": 3,
+            "28": 3,
+            "29": 3,
+            "30": 3,
+            "31": 3,
+            "32": 3,
+            "33": 3
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<>c": {
+        "System.DateOnly CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<>c::<GetHistoricalRatesAsync>b__10_1(CurrencyConverter.Domain.Entities.RateSnapshot)": {
+          "Lines": {
+            "89": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<>c__DisplayClass10_0": {
+        "CurrencyConverter.Domain.Entities.RateSnapshot CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<>c__DisplayClass10_0::<GetHistoricalRatesAsync>b__0(System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.Dictionary`2<System.String,System.Decimal>>)": {
+          "Lines": {
+            "86": 0,
+            "87": 0,
+            "88": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<GetExchangeRateAsync>d__8": {
+        "System.Void CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<GetExchangeRateAsync>d__8::MoveNext()": {
+          "Lines": {
+            "39": 3,
+            "40": 3,
+            "41": 3,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "47": 2,
+            "48": 2,
+            "50": 2,
+            "51": 1,
+            "53": 1,
+            "54": 1,
+            "56": 1,
+            "57": 2
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 124,
+              "EndOffset": 126,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 124,
+              "EndOffset": 199,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 50,
+              "Offset": 423,
+              "EndOffset": 425,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 50,
+              "Offset": 423,
+              "EndOffset": 501,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<GetFromFrankfurterAsync>d__11`1": {
+        "System.Void CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<GetFromFrankfurterAsync>d__11`1::MoveNext()": {
+          "Lines": {
+            "98": 3,
+            "99": 3,
+            "100": 3,
+            "103": 3,
+            "104": 3,
+            "105": 3,
+            "107": 3,
+            "108": 3,
+            "110": 3,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "118": 3
+          },
+          "Branches": [
+            {
+              "Line": 104,
+              "Offset": 204,
+              "EndOffset": 206,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 204,
+              "EndOffset": 217,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        }
+      },
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<GetHistoricalRatesAsync>d__10": {
+        "System.Void CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<GetHistoricalRatesAsync>d__10::MoveNext()": {
+          "Lines": {
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "85": 0,
+            "91": 0,
+            "92": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<GetLatestRatesAsync>d__9": {
+        "System.Void CurrencyConverter.Infrastructure.Providers.Frankfurter.FrankfurterProvider/<GetLatestRatesAsync>d__9::MoveNext()": {
+          "Lines": {
+            "62": 1,
+            "63": 1,
+            "64": 1,
+            "65": 0,
+            "67": 1,
+            "68": 1,
+            "70": 1,
+            "71": 1,
+            "72": 1,
+            "74": 1,
+            "75": 1
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 75,
+              "EndOffset": 77,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 75,
+              "EndOffset": 89,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Providers\\Frankfurter\\TimeSeriesResponse.cs": {
+      "CurrencyConverter.Infrastructure.Providers.Frankfurter.TimeSeriesResponse": {
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.TimeSeriesResponse::get_Base()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.TimeSeriesResponse::get_StartDate()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String CurrencyConverter.Infrastructure.Providers.Frankfurter.TimeSeriesResponse::get_EndDate()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.Dictionary`2<System.String,System.Decimal>> CurrencyConverter.Infrastructure.Providers.Frankfurter.TimeSeriesResponse::get_Rates()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Persistence\\CurrencyConverterDbContext.cs": {
+      "CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<CurrencyConverter.Domain.Entities.CurrencyConversionHistory> CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext::get_ConversionHistories()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<CurrencyConverter.Domain.Entities.CurrencyConversionHistory> CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext::get_CurrencyConversionHistories()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext>)": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Persistence\\CurrencyConverterDbContextFactory.cs": {
+      "CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContextFactory": {
+        "CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContext CurrencyConverter.Infrastructure.Persistence.CurrencyConverterDbContextFactory::CreateDbContext(System.String[])": {
+          "Lines": {
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Persistence\\EntityTypeConfigurations\\CurrencyConversionHistoryConfiguration.cs": {
+      "CurrencyConverter.Infrastructure.Persistence.EntityTypeConfigurations.CurrencyConversionHistoryConfiguration": {
+        "System.Void CurrencyConverter.Infrastructure.Persistence.EntityTypeConfigurations.CurrencyConversionHistoryConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<CurrencyConverter.Domain.Entities.CurrencyConversionHistory>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Migrations\\20250824141555_InitialCreate.cs": {
+      "CurrencyConverter.Infrastructure.Migrations.InitialCreate": {
+        "System.Void CurrencyConverter.Infrastructure.Migrations.InitialCreate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.Infrastructure.Migrations.InitialCreate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Migrations\\20250824141555_InitialCreate.Designer.cs": {
+      "CurrencyConverter.Infrastructure.Migrations.InitialCreate": {
+        "System.Void CurrencyConverter.Infrastructure.Migrations.InitialCreate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "58": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\Migrations\\CurrencyConverterDbContextModelSnapshot.cs": {
+      "CurrencyConverter.Infrastructure.Migrations.CurrencyConverterDbContextModelSnapshot": {
+        "System.Void CurrencyConverter.Infrastructure.Migrations.CurrencyConverterDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs": {
+      "CurrencyConverter.Infrastructure.DependencyInjection.InfrastructureServiceCollectionExtensions": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection CurrencyConverter.Infrastructure.DependencyInjection.InfrastructureServiceCollectionExtensions::AddInfrastructure(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "40": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "70": 0,
+            "73": 0,
+            "76": 0,
+            "82": 0,
+            "83": 0
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 18,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 18,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "Polly.IAsyncPolicy`1<System.Net.Http.HttpResponseMessage> CurrencyConverter.Infrastructure.DependencyInjection.InfrastructureServiceCollectionExtensions::GetRetryPolicy()": {
+          "Lines": {
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0
+          },
+          "Branches": []
+        },
+        "Polly.IAsyncPolicy`1<System.Net.Http.HttpResponseMessage> CurrencyConverter.Infrastructure.DependencyInjection.InfrastructureServiceCollectionExtensions::GetCircuitBreakerPolicy()": {
+          "Lines": {
+            "92": 0,
+            "93": 0,
+            "94": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "CurrencyConverter.UnitTests.dll": {
+    "C:\\Users\\m.khourgami\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.1\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs": {
+      "AutoGeneratedProgram": {
+        "System.Void AutoGeneratedProgram::Main(System.String[])": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\UnitTest1.cs": {
+      "CurrencyConverter.UnitTests.UnitTest1": {
+        "System.Void CurrencyConverter.UnitTests.UnitTest1::Test1()": {
+          "Lines": {
+            "7": 0,
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\Infrastructure\\Providers\\CurrencyProviderFactoryTests.cs": {
+      "CurrencyConverter.UnitTests.Infrastructure.Providers.CurrencyProviderFactoryTests": {
+        "System.Void CurrencyConverter.UnitTests.Infrastructure.Providers.CurrencyProviderFactoryTests::Returns_Provider_By_Name()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.UnitTests.Infrastructure.Providers.CurrencyProviderFactoryTests::Falls_Back_To_Frankfurter()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.UnitTests.Infrastructure.Providers.CurrencyProviderFactoryTests::Throws_If_No_Providers()": {
+          "Lines": {
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\Infrastructure\\Providers\\Frankfurter\\FrankfurterProviderTests.cs": {
+      "CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests": {
+        "Microsoft.Extensions.Caching.Memory.IMemoryCache CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests::NewMemoryCache()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<>c__DisplayClass1_0": {
+        "System.Net.Http.HttpResponseMessage CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<>c__DisplayClass1_0::<GetExchangeRate_Uses_Http_Then_Cache>b__0(System.Net.Http.HttpRequestMessage)": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<>c__DisplayClass2_0": {
+        "System.Net.Http.HttpResponseMessage CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<>c__DisplayClass2_0::<GetLatestRates_Returns_Snapshot>b__0(System.Net.Http.HttpRequestMessage)": {
+          "Lines": {
+            "68": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<>c__DisplayClass3_0": {
+        "System.Net.Http.HttpResponseMessage CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<>c__DisplayClass3_0::<Throws_On_Missing_Target>b__0(System.Net.Http.HttpRequestMessage)": {
+          "Lines": {
+            "94": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Decimal> CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<>c__DisplayClass3_0::<Throws_On_Missing_Target>b__2()": {
+          "Lines": {
+            "105": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<GetExchangeRate_Uses_Http_Then_Cache>d__1": {
+        "System.Void CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<GetExchangeRate_Uses_Http_Then_Cache>d__1::MoveNext()": {
+          "Lines": {
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "47": 0,
+            "49": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<GetLatestRates_Returns_Snapshot>d__2": {
+        "System.Void CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<GetLatestRates_Returns_Snapshot>d__2::MoveNext()": {
+          "Lines": {
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "78": 0,
+            "80": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<Throws_On_Missing_Target>d__3": {
+        "System.Void CurrencyConverter.UnitTests.Infrastructure.Providers.Frankfurter.FrankfurterProviderTests/<Throws_On_Missing_Target>d__3::MoveNext()": {
+          "Lines": {
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "106": 0,
+            "107": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\Helper\\FakeHttpMessageHandler .cs": {
+      "CurrencyConverter.UnitTests.Helpers.FakeHttpMessageHandler": {
+        "System.Int32 CurrencyConverter.UnitTests.Helpers.FakeHttpMessageHandler::get_CallCount()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Net.Http.HttpResponseMessage> CurrencyConverter.UnitTests.Helpers.FakeHttpMessageHandler::SendAsync(System.Net.Http.HttpRequestMessage,System.Threading.CancellationToken)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Net.Http.HttpResponseMessage CurrencyConverter.UnitTests.Helpers.FakeHttpMessageHandler::Json(System.String,System.Net.HttpStatusCode)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.UnitTests.Helpers.FakeHttpMessageHandler::.ctor(System.Func`2<System.Net.Http.HttpRequestMessage,System.Net.Http.HttpResponseMessage>)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\Domain\\ValueObjects\\RateSnapshotTests.cs": {
+      "CurrencyConverter.UnitTests.Domain.Entities.RateSnapshotTests": {
+        "System.Void CurrencyConverter.UnitTests.Domain.Entities.RateSnapshotTests::Create_Stores_Data_Correctly()": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\Domain\\ValueObjects\\CurrencyCodeTests.cs": {
+      "CurrencyConverter.UnitTests.Domain.ValueObjects.CurrencyCodeTests": {
+        "System.Void CurrencyConverter.UnitTests.Domain.ValueObjects.CurrencyCodeTests::Create_Throws_On_Invalid(System.String)": {
+          "Lines": {
+            "17": 0,
+            "19": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.UnitTests.Domain.ValueObjects.CurrencyCodeTests::Create_Succeeds_On_Valid(System.String)": {
+          "Lines": {
+            "30": 0,
+            "32": 0,
+            "35": 0,
+            "36": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\Domain\\ValueObjects\\DateRangeTests.cs": {
+      "CurrencyConverter.UnitTests.Domain.ValueObjects.DateRangeTests": {
+        "System.Void CurrencyConverter.UnitTests.Domain.ValueObjects.DateRangeTests::Create_Valid_Range()": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.UnitTests.Domain.ValueObjects.DateRangeTests::Create_Throws_When_End_Before_Start()": {
+          "Lines": {
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Void CurrencyConverter.UnitTests.Domain.ValueObjects.DateRangeTests::Contains_Works()": {
+          "Lines": {
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "48": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\Application\\Services\\CurrencyConversionServiceTests.cs": {
+      "CurrencyConverter.UnitTests.Application.Services.CurrencyConversionServiceTests/<>c__DisplayClass1_0": {
+        "System.Threading.Tasks.Task CurrencyConverter.UnitTests.Application.Services.CurrencyConversionServiceTests/<>c__DisplayClass1_0::<ConvertAsync_Blocks_Excluded_Currencies>b__2()": {
+          "Lines": {
+            "86": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Application.Services.CurrencyConversionServiceTests/<ConvertAsync_Blocks_Excluded_Currencies>d__1": {
+        "System.Void CurrencyConverter.UnitTests.Application.Services.CurrencyConversionServiceTests/<ConvertAsync_Blocks_Excluded_Currencies>d__1::MoveNext()": {
+          "Lines": {
+            "61": 0,
+            "63": 0,
+            "64": 0,
+            "66": 0,
+            "67": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Application.Services.CurrencyConversionServiceTests/<ConvertAsync_Uses_Provider_And_Returns_Result>d__0": {
+        "System.Void CurrencyConverter.UnitTests.Application.Services.CurrencyConversionServiceTests/<ConvertAsync_Uses_Provider_And_Returns_Result>d__0::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "46": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Data\\Vahid\\Hiring task\\BambooCard\\CurrencyConverter\\CurrencyConverter.UnitTests\\Api\\Controllers\\CurrencyControllerTests.cs": {
+      "CurrencyConverter.UnitTests.Api.Controllers.CurrencyControllerTests/<Convert_Should_Return_BadRequest_When_Amount_Is_Not_Positive>d__2": {
+        "System.Void CurrencyConverter.UnitTests.Api.Controllers.CurrencyControllerTests/<Convert_Should_Return_BadRequest_When_Amount_Is_Not_Positive>d__2::MoveNext()": {
+          "Lines": {
+            "56": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "69": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Api.Controllers.CurrencyControllerTests/<Convert_Should_Return_BadRequest_When_Currencies_Are_Missing>d__1": {
+        "System.Void CurrencyConverter.UnitTests.Api.Controllers.CurrencyControllerTests/<Convert_Should_Return_BadRequest_When_Currencies_Are_Missing>d__1::MoveNext()": {
+          "Lines": {
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "47": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Api.Controllers.CurrencyControllerTests/<Convert_Should_Return_BadRequest_When_Request_Is_Null>d__0": {
+        "System.Void CurrencyConverter.UnitTests.Api.Controllers.CurrencyControllerTests/<Convert_Should_Return_BadRequest_When_Request_Is_Null>d__0::MoveNext()": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "25": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "CurrencyConverter.UnitTests.Api.Controllers.CurrencyControllerTests/<Convert_Should_Return_Ok_With_ConversionResultDto_When_Request_Is_Valid>d__3": {
+        "System.Void CurrencyConverter.UnitTests.Api.Controllers.CurrencyControllerTests/<Convert_Should_Return_Ok_With_ConversionResultDto_When_Request_Is_Valid>d__3::MoveNext()": {
+          "Lines": {
+            "78": 0,
+            "80": 0,
+            "81": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "90": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "107": 0,
+            "110": 0,
+            "111": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
